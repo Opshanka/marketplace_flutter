@@ -31,4 +31,23 @@ Installation
  - Git
 
 - Steps
- - 
+
+1. **Clone the repository** 
+```bash
+git clone git@github.com:Opshanka/marketplace_flutter.git
+cd mo_marketplace
+```
+
+2. **Install dependencies**
+```bash
+flutter pub get
+```
+
+3. **Run the app**
+```bash
+flutter run
+```
+
+## 🎥 Demo Video
+
+
