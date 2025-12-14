@@ -48,6 +48,4 @@ flutter pub get
 flutter run
 ```
 
-## 🎥 Demo Video
-
 
